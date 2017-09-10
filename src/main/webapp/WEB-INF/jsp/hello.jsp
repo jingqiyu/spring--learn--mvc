@@ -6,6 +6,7 @@
 <title>Hello World</title>
 </head>
 <body>
+${requestScope}
 ${tid}
 </body>
 </html>

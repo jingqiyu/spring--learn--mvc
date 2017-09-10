@@ -1,4 +1,4 @@
-package cn.jing.hello.web.controller;
+package cn.jing.hello.web.entity;
 
 import com.fasterxml.jackson.annotation.JsonView;
 
